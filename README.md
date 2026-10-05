@@ -22,7 +22,7 @@
 - 🏆 Active in coding clubs and hackathons since high school
 - 🌱 Always learning new tools, frameworks, and better ways to write maintainable code
 - 🤝 Open to freelance projects and collaboration
-- 📫 Reach me at **oluochsimon8@gmail.com**
+- 📫 Reach me at **oluochsimon88@gmail.com**
 
 ---
 
