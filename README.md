@@ -65,7 +65,7 @@
 | 🖥️ **Computer Repair & Networking** | Repair, maintenance, upgrades, cabling, and wireless setup |
 | 🧾 **Online Applications** | HELB, KRA, NHIF, and eCitizen application assistance |
 
-👉 See pricing and book a service on my [portfolio](https://cymone-404.vercel.app/#services).
+👉 See pricing and book a service on my [company](https://aura-digital-hub.vercel.app/services).
 
 ---
 
